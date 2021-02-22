@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-pwa-cache-TEST
+        nuxt-pwa-cache-
       </h1>
       
     </div>
